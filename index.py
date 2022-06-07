@@ -3,7 +3,7 @@
     #print('Esto no se va a imprimir')
 #else:
     #print('lo que es')
-from numpy import true_divide
+
 
 
 a, b, c = 'lala', 'lele', 'lili'
